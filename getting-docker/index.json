@@ -1,0 +1,16 @@
+{
+    "title": "Getting Docker (Linux)",
+    "description": "Installing Docker Engine on Ubuntu",
+    "steps": {
+        "prerequisites": {
+            "text": "prerequisites.md"
+        },
+        "install": {
+            "text": "install.md"
+        }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+}
+  
