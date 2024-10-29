@@ -1,12 +1,6 @@
-# Creating a Dockerfile
 A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. 
+
 Using docker build users can create an automated build that executes several command-line instructions in succession
-
-## What you'll learn on this scenario
-
-* Understand the purpose and structure of a Dockerfile.
-* Learn how to write Dockerfile instructions to build a Container image.
-* Build a Container image and verify its creation.
 
 
 ## Dockerfile Commands Explained
