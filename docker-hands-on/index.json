@@ -1,0 +1,28 @@
+{
+    "title": "Docker (Linux) Hands-on",
+    "description": "Installing Docker Engine on Ubuntu",
+    "intro": {
+        "text": "intro.md"
+    },
+    "steps": {
+        "dockerfile": {
+            "text": "t01_dockerfile.md"
+        },
+        "build": {
+            "text": "build.md"
+        },
+        "run_local": {
+            "text": "run_local.md"
+        },
+        "push": {
+            "text": "push_remote.md"
+        },
+        "run_remote": {
+            "text": "run_remote.md"
+        }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+}
+  
