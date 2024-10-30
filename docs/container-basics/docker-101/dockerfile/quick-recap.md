@@ -1,10 +1,13 @@
-A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. 
+---
+sidebar_position: 1
+title: Quick Recap on Dockerfile
+---
+## Introduction
 
+A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. 
 Using docker build users can create an automated build that executes several command-line instructions in succession
 
-
 ## Dockerfile Commands Explained
-
 
 * `FROM`: Starts the Dockerfile and sets the base image for subsequent instructions. Each FROM instruction begins a new stage of build and can start with a clean slate.
 
