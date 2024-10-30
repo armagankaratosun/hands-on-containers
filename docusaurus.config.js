@@ -43,7 +43,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Serve the docs at the site's root
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/armagankaratosun/hands-on-containers/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false,
         theme: {
@@ -72,7 +72,7 @@ const config = {
             label: 'Scenarios',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/armagankaratosun/hands-on-containers',
             label: 'GitHub',
             position: 'right',
           },
