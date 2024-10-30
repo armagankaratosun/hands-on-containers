@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Hands on with Containers
 ---
 
-Container Essentials: Docker, Kubernetes, and Beyond
+Container Essentials: Docker, Kubernetes, and beyond
 
 ## What you'll learn on this webpage
 

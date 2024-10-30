@@ -92,7 +92,7 @@ const config = {
           },
         
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hands-on Containers, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Armagan Karatosun, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
